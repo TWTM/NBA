@@ -1,2 +1,3 @@
-# DataScience
-Data Science Projects that I've done
+# NBA Analysis
+Data Science Projects regarding the NBA i've done
+
